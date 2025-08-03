@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[The give data present in Web is : Leave Types]]>
+    </line>
+    <line>
+      <![CDATA[Test Pass]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-07-30T16:15:29 IST" name="Surefire suite" finished-at="2025-07-30T16:15:55 IST" duration-ms="26108">
+    <groups>
+    </groups>
+    <test started-at="2025-07-30T16:15:29 IST" name="Surefire test" finished-at="2025-07-30T16:15:55 IST" duration-ms="26108">
+      <class name="section3.MyInfoVerificationTest">
+        <test-method is-config="true" signature="confiBC()[pri:0, instance:section3.MyInfoVerificationTest@6e9a5ed8]" started-at="2025-07-30T16:15:44 IST" name="confiBC" finished-at="2025-07-30T16:15:48 IST" duration-ms="3898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confiBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:section3.MyInfoVerificationTest@6e9a5ed8]" started-at="2025-07-30T16:15:48 IST" name="configBM" finished-at="2025-07-30T16:15:49 IST" duration-ms="677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="myInfovalidation()[pri:0, instance:section3.MyInfoVerificationTest@6e9a5ed8]" started-at="2025-07-30T16:15:49 IST" name="myInfovalidation" finished-at="2025-07-30T16:15:54 IST" duration-ms="5067" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- myInfovalidation -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:section3.MyInfoVerificationTest@6e9a5ed8]" started-at="2025-07-30T16:15:54 IST" name="configAM" finished-at="2025-07-30T16:15:55 IST" duration-ms="1382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:section3.MyInfoVerificationTest@6e9a5ed8]" started-at="2025-07-30T16:15:55 IST" name="configAC" finished-at="2025-07-30T16:15:55 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- section3.MyInfoVerificationTest -->
+      <class name="section3.LeaveVerificationTest">
+        <test-method is-config="true" signature="confiBC()[pri:0, instance:section3.LeaveVerificationTest@1caa0244]" started-at="2025-07-30T16:15:29 IST" name="confiBC" finished-at="2025-07-30T16:15:36 IST" duration-ms="6603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confiBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:section3.LeaveVerificationTest@1caa0244]" started-at="2025-07-30T16:15:36 IST" name="configBM" finished-at="2025-07-30T16:15:37 IST" duration-ms="676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="leaveValidation()[pri:0, instance:section3.LeaveVerificationTest@1caa0244]" started-at="2025-07-30T16:15:37 IST" name="leaveValidation" finished-at="2025-07-30T16:15:43 IST" duration-ms="6429" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[The give data present in Web is : Leave Types]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- leaveValidation -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:section3.LeaveVerificationTest@1caa0244]" started-at="2025-07-30T16:15:43 IST" name="configAM" finished-at="2025-07-30T16:15:44 IST" duration-ms="885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:section3.LeaveVerificationTest@1caa0244]" started-at="2025-07-30T16:15:44 IST" name="configAC" finished-at="2025-07-30T16:15:44 IST" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- section3.LeaveVerificationTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
