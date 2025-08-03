@@ -37,6 +37,8 @@ public class LeaveVerificationTest extends BaseTest{
 			Reporter.log("Test fail", true);
 		}
 		
+		System.out.println("Pass");
+		
 		
 	}
 
