@@ -40,6 +40,7 @@ public class SeleniumUtility {
 		
 		System.out.println("Code is working");
 		
+		System.out.println("Pass");
 	}
 	
 	public static void switchToFrame() {
