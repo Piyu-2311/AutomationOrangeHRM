@@ -41,6 +41,8 @@ public class SeleniumUtility {
 		System.out.println("Code is working");
 		
 		System.out.println("Pass");
+		
+		System.out.println("Closed");
 	}
 	
 	public static void switchToFrame() {
