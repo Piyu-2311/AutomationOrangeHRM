@@ -37,12 +37,8 @@ public class SeleniumUtility {
 	}
 	
 	public static void selectListbox(WebElement element) {
+		System.out.println("change happended");
 		
-		System.out.println("Code is working");
-		
-		System.out.println("Pass");
-		
-		System.out.println("Closed");
 	}
 	
 	public static void switchToFrame() {
@@ -57,11 +53,5 @@ public class SeleniumUtility {
 		
 	}
 	
-	public static void file() {
-		
-	}
-		
-		
-
 }
 
