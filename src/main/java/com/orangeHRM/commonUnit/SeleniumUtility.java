@@ -19,6 +19,8 @@ public class SeleniumUtility {
 		waitUtil.verifyElementVisible(element);
 		element.clear();
 		element.sendKeys(text);
+		System.out.println("All good");
+		
 	}
 	
 	public static void clickElement(WebElement element) {
